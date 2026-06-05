@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Aliasgar Garbada 👋
 
-<!--
-**Aliasgar-Garbada/Aliasgar-Garbada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate Full-Stack Developer who enjoys building practical web applications and learning modern technologies. Currently focused on the MERN stack and improving my problem-solving and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+## 📌 Featured Project
+
+### TrackHire – Job Application Tracker
+
+A full-stack MERN application that helps users manage and track job applications efficiently.
+
+#### Features
+
+* User Authentication
+* Job Application Management
+* Application Status Tracking
+* Dashboard & Analytics
+* Responsive User Interface
+
+#### Tech Used
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+
+## 🌱 Currently Learning
+
+* Advanced React Concepts
+* REST API Best Practices
+* Authentication & Security
+* Backend Architecture
+
+## 🎯 Career Goal
+
+To build production-ready applications, contribute to meaningful projects, and grow as a Full-Stack Developer.
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Aliasgar-Garbada
+* Email: [aliasgargarbada54@gmail.com](https://aliasgargarbada54@gmail.com)
+
+---
+
+⭐ Always learning, building, and improving.
