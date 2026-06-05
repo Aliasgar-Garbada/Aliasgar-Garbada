@@ -64,7 +64,8 @@ To build production-ready applications, contribute to meaningful projects, and g
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Aliasgar-Garbada
-* Email: [aliasgargarbada54@gmail.com](https://aliasgargarbada54@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/aliasgar-garbada-712303352/
+* Email: [aliasgargarbada54@gmail.com](mailto:aliasgargarbada54@gmail.com)
 
 ---
 
